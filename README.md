@@ -1,4 +1,4 @@
-## Project : Employee-Family-Management-System 
+# Project : Employee-Family-Management-System 
 A full-stack application for managing employee profiles and their family details (spouse, children), with features like search, PDF export, and role-based access control. 
 
 ### Live Demo (Website) :
@@ -12,21 +12,30 @@ _____________________________
 - Type: Full-Stack Web Application  
 - Architecture: Clean Architecture (Domain, Application, Infrastructure, API)  
 
-### Technology Stack 
-Backend : C#, .NET 10, ASP.NET Core, Web API, Entity Framework Core, FluentValidation, QuestPDF .
-Frontend : React, Vite, Tailwind CSS, Axios . 
-Database : PostgreSQL . 
+### Technology Stack : 
+Backend :   - C# 
+            - .NET 10 
+            - ASP.NET Core 
+            - Web API 
+            - Entity Framework Core 
+            - FluentValidation 
+            - QuestPDF 
+Frontend :  - React 
+            - Vite 
+            - Tailwind CSS 
+            - Axios 
+Database :  - PostgreSQL 
 
 
 ### Version & Dependencies : 
 - SDK : Microsoft.NET.Sdk (.NET 10.0) 
 - NuGet Package (NuGet Dependency) : 
-    i. Microsoft.AspNetCore.OpenApi (v 10.1.3) ; 
-    ii. Microsoft.EntityFrameworkCore.Design (v 10.0.3) ;
-    iii. FluentValidation.AspNetCore (v 11.3.1) ; 
-    iv. Swashbuckle.AspNetCore (v 10.1.3) ;
-    v. Microsoft.AspNetCore.Authentication.JwtBearer (v 10.0.3) ;
-    vi. QuestPDF (v 2026.2.1) ;
+    - i. Microsoft.AspNetCore.OpenApi (v 10.1.3) 
+    - ii. Microsoft.EntityFrameworkCore.Design (v 10.0.3) 
+    - iii. FluentValidation.AspNetCore (v 11.3.1) 
+    - iv. Swashbuckle.AspNetCore (v 10.1.3) 
+    - v. Microsoft.AspNetCore.Authentication.JwtBearer (v 10.0.3) 
+    - vi. QuestPDF (v 2026.2.1) 
 - Node.js (v 18) 
 - PostgreSQL (v 14) 
 
