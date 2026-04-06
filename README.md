@@ -13,18 +13,23 @@ _____________________________
 - Architecture: Clean Architecture (Domain, Application, Infrastructure, API)  
 
 ### Technology Stack : 
-- Backend :   - C# 
+- Backend :
+            - C# 
             - .NET 10 
             - ASP.NET Core 
             - Web API 
             - Entity Framework Core 
             - FluentValidation 
             - QuestPDF 
-- Frontend :  - React 
+
+- Frontend :
+            - React 
             - Vite 
             - Tailwind CSS 
             - Axios 
-- Database :  - PostgreSQL 
+
+- Database :
+            - PostgreSQL 
 
 
 ### Version & Dependencies : 
