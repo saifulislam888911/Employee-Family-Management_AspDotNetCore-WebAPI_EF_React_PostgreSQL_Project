@@ -14,22 +14,20 @@ _____________________________
 
 ### Technology Stack : 
 - Backend :
-            - C# 
-            - .NET 10 
-            - ASP.NET Core 
-            - Web API 
-            - Entity Framework Core 
-            - FluentValidation 
-            - QuestPDF 
-
+    - C#
+    - .NET 10
+    - ASP.NET Core
+    - Web API
+    - Entity Framework Core
+    - FluentValidation
+    - QuestPDF 
 - Frontend :
-            - React 
-            - Vite 
-            - Tailwind CSS 
-            - Axios 
-
+    - React
+    - Vite
+    - Tailwind CSS
+    - Axios 
 - Database :
-            - PostgreSQL 
+    - PostgreSQL 
 
 
 ### Version & Dependencies : 
