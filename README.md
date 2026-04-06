@@ -13,18 +13,18 @@ _____________________________
 - Architecture: Clean Architecture (Domain, Application, Infrastructure, API)  
 
 ### Technology Stack : 
-Backend :   - C# 
+- Backend :   - C# 
             - .NET 10 
             - ASP.NET Core 
             - Web API 
             - Entity Framework Core 
             - FluentValidation 
             - QuestPDF 
-Frontend :  - React 
+- Frontend :  - React 
             - Vite 
             - Tailwind CSS 
             - Axios 
-Database :  - PostgreSQL 
+- Database :  - PostgreSQL 
 
 
 ### Version & Dependencies : 
@@ -42,16 +42,16 @@ Database :  - PostgreSQL
 ---
 
 ### Client : Amber Group : 
-Assignment : Test Project According to Provided Requirements ; 
-Study : Self-Practice, Self-Study ; 
-Helped From : ; 
+- Assignment : Test Project According to Provided Requirements ; 
+- Study : Self-Practice, Self-Study ; 
+- Helped From : ; 
 
 ---
 
 ### Branch : ("main")
-Main : Stable Release & Version Update (For publishing new updated versions). 
-Development (DevWithNotes-00) : For Updating new features. Always Upto Date. Clean Codes (Deleted Comments & Notes). 
-DevWithNotes : For Pushing working codes alongside with Comments & Notes. Always Upto Date.
+- Main : Stable Release & Version Update (For publishing new updated versions). 
+- Development (DevWithNotes-00) : For Updating new features. Always Upto Date. Clean Codes (Deleted Comments & Notes). 
+- DevWithNotes : For Pushing working codes alongside with Comments & Notes. Always Upto Date.
 
 ---
 
