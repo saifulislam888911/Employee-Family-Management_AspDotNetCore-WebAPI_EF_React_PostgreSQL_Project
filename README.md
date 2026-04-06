@@ -1,4 +1,4 @@
-# Project : Employee-Family-Management-System 
+## Project : Employee-Family-Management-System 
 A full-stack application for managing employee profiles and their family details (spouse, children), with features like search, PDF export, and role-based access control. 
 
 ### Live Demo (Website) :
@@ -12,14 +12,13 @@ _____________________________
 - Type: Full-Stack Web Application  
 - Architecture: Clean Architecture (Domain, Application, Infrastructure, API)  
 
-## Technology Stack 
+### Technology Stack 
 Backend : C#, .NET 10, ASP.NET Core, Web API, Entity Framework Core, FluentValidation, QuestPDF .
 Frontend : React, Vite, Tailwind CSS, Axios . 
 Database : PostgreSQL . 
 
----
 
-## Version & Dependencies : 
+### Version & Dependencies : 
 - SDK : Microsoft.NET.Sdk (.NET 10.0) 
 - NuGet Package (NuGet Dependency) : 
     i. Microsoft.AspNetCore.OpenApi (v 10.1.3) ; 
@@ -33,21 +32,21 @@ Database : PostgreSQL .
 
 ---
 
-# Client : Amber Group : 
+### Client : Amber Group : 
 Assignment : Test Project According to Provided Requirements ; 
 Study : Self-Practice, Self-Study ; 
-Helped From : Self-Practice, Self-Study ; 
+Helped From : ; 
 
 ---
 
-# Branch : ("main")
+### Branch : ("main")
 Main : Stable Release & Version Update (For publishing new updated versions). 
 Development (DevWithNotes-00) : For Updating new features. Always Upto Date. Clean Codes (Deleted Comments & Notes). 
 DevWithNotes : For Pushing working codes alongside with Comments & Notes. Always Upto Date.
 
 ---
 
-# Quick Start Guide :
+## Quick Start Guide :
 _____________________
 
 ### Step 1: Setup Database
